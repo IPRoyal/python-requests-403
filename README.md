@@ -1,10 +1,5 @@
 # Solving 403 Forbidden Errors in Python Requests
 
-**Author:** Vilius Dumcius  
-**Last updated:** October 3, 2024 • ~5 min read
-
-This README condenses the article into a GitHub-friendly format. It explains why “403 Forbidden” errors appear during scraping with Python Requests and demonstrates strategies to bypass them with annotated code samples.
-
 ---
 
 ## Why 403 errors?
