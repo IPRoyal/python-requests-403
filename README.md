@@ -2,7 +2,7 @@
 
 ---
 
-## Why 403 errors?
+## What is an HTTP 403 error?
 A `403 Forbidden` error means the server understood the request but refuses to authorize it. It is one of the most common issues in web scraping with Python Requests.
 
 ---
